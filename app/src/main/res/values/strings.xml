@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Project_450</string>
+    <string name="title_activity_added">AddedActivity</string>
 </resources>
